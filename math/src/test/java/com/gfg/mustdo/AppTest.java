@@ -2,7 +2,6 @@ package com.gfg.mustdo;
 
 import static org.junit.Assert.assertTrue;
 
-import org.junit.assertEquals;
 
 import org.junit.Test;
 
